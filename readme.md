@@ -1,4 +1,5 @@
-# Moondream Vision Model Demo 🌙  
+<h1 align="center">Moondream Vision Model Demo</h1>  
+
 ![moondream](https://github.com/user-attachments/assets/8c4e98db-e9df-45ac-86f9-085e1c6b06e6)
 
 Explore the power of Moondream's Vision-Language Model with this interactive Streamlit app. The app allows you to upload images and use Moondream's cutting-edge capabilities, such as caption generation, image question answering, object detection, and object pointing.  
